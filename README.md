@@ -7,3 +7,17 @@ Dhwani is a task concentrating on sound generation from a given picture utilizin
 ## WorkFlow
 
 ![picture](Assets/WorkFlow.png)
+
+### SoundNet
+
+![picture](Assets/SoundNet.png)
+
+![picture](Assets/SoundNet_output.png)
+
+### MobileNet
+
+![picture](Assets/MobileNet.png)
+
+## Dhwani's Architecture
+
+![picture](Assets/Architecture.png)
