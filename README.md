@@ -6,4 +6,4 @@ Dhwani is a task concentrating on sound generation from a given picture utilizin
 
 ## WorkFlow
 
-![picture](Assets/WorkFlow)
+![picture](Assets/WorkFlow.png)
